@@ -3,7 +3,6 @@ import Container from './Container';
 import ContactForm from './ContactForm';
 import ContactList from './ContactList';
 import Filter from './Filter';
-import './App.module.css';
 
 class App extends Component {
   state = {
